@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaeem Tariq</h1>
-<h3 align="center">Passionate and dedicated developer with a strong foundation in computer science, blockchain, and decentralized technologies. Experienced in building smart contracts, dApps, and full-stack applications. Currently contributing as a Teaching Associate in Computer Science while actively exploring innovative solutions in Web3 and beyond.</h3>
+<h3 align="center">Passionate and dedicated developer with a strong foundation in computer science, blockchain, and decentralized technologies. Experienced in building smart contracts, dApps, and full-stack web applications. Currently contributing as a Lecturer in Department of Computer Science University of Karachi, while actively exploring innovative solutions in Web3 and beyond.</h3>
 
 <p align="center">
   <a href="https://twitter.com/zaemrana" target="_blank">
