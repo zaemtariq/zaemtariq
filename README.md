@@ -11,26 +11,32 @@
     <img src="https://img.shields.io/twitter/follow/zaemrana?logo=twitter&style=for-the-badge" alt="zaemrana" />
   </a>
 </p>
-</hr>
-- 🔭 I’m currently working on **Web3.0** , **Full-Stack Applications**
-- 👯 I’m looking to collaborate on **Blockchain Projects / Tokenization**, **Full-Stack Applications**
-- 💬 Ask me about **React, Web3, Solidity, Rust, Express.js, Node.js, Next.js, Web Development**
-- 📫 Reach me at **zaemtariq@gmail.com**
+
+---
+
+🔭 I’m currently working on Web3.0, smart contracts and Full-Stack Applications
+
+👯 I’m looking to collaborate on Blockchain Projects / Tokenization and Full-Stack Applications
+
+💬 Ask me about React, Web3, Solidity, Rust, Express.js, Node.js, Next.js, Full-Stack Web Development
+
+📫 Reach me at zaemtariq@gmail.com
 
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/zaemrana" target="_blank">
+<p align="left" style="display:flex">
+  <a href="https://twitter.com/zaemrana" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/zaemtariq/" target="_blank">
+  <a href="https://www.linkedin.com/in/zaemtariq/" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://www.instagram.com/zaem_rana" target="_blank">
+  <a href="https://www.instagram.com/zaem_rana" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
 </p>
+
 
 ---
 
