@@ -11,10 +11,9 @@
     <img src="https://img.shields.io/twitter/follow/zaemrana?logo=twitter&style=for-the-badge" alt="zaemrana" />
   </a>
 </p>
-
-- 🔭 I’m currently working on **Web3.0**
-- 🌱 I’m currently learning **DAO**
-- 👯 I’m looking to collaborate on **Blockchain Projects / Tokenization**
+</hr>
+- 🔭 I’m currently working on **Web3.0** , **Full-Stack Applications**
+- 👯 I’m looking to collaborate on **Blockchain Projects / Tokenization**, **Full-Stack Applications**
 - 💬 Ask me about **React, Web3, Solidity, Rust, Express.js, Node.js, Next.js, Web Development**
 - 📫 Reach me at **zaemtariq@gmail.com**
 
