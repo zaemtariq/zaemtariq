@@ -24,16 +24,17 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display:flex">
-  <a href="https://twitter.com/zaemrana" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
+### Connect with me:
+
+<p align="left">
+  <a href="https://twitter.com/zaemrana" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" style="margin-right: 15px;">
   </a>
-  <a href="https://www.linkedin.com/in/zaemtariq/" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  <a href="https://www.linkedin.com/in/zaemtariq/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 15px;">
   </a>
-  <a href="https://www.instagram.com/zaem_rana" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+  <a href="https://www.instagram.com/zaem_rana" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" style="margin-right: 15px;">
   </a>
 </p>
 
