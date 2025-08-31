@@ -24,18 +24,33 @@
 
 ---
 
+
 ### Connect with me:
 
-<p align="left">
-  <a href="https://twitter.com/zaemrana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" style="margin-right: 15px;">
-  </a>
-  <a href="https://www.linkedin.com/in/zaemtariq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 15px;">
-  </a>
-  <a href="https://www.instagram.com/zaem_rana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" style="margin-right: 15px;">
-  </a>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://twitter.com/zaemrana" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30">
+        </a>
+      </td>
+      <td width="50">
+        </td>
+      <td>
+        <a href="https://www.linkedin.com/in/zaemtariq/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
+        </a>
+      </td>
+      <td width="50">
+        </td>
+      <td>
+        <a href="https://www.instagram.com/zaem_rana" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30">
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
