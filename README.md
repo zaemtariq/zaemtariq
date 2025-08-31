@@ -28,7 +28,7 @@
 ### Connect with me:
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>
         <a href="https://twitter.com/zaemrana" target="_blank">
@@ -86,10 +86,10 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 
   <!-- Blockchain -->
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=029" alt="Ethereum" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=029" alt="Solana" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Web3_logo.svg" alt="Web3" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/C/chainlink-logo-5A3DFDA284-seeklogo.com.png" alt="Oracles (Chainlink)" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+<img src="https://unpkg.com/@cryptologos/cryptocurrencies@1.0.1/logos/solana-sol-logo.svg" alt="Solana" width="40" height="40"/>
+<img src="https://unpkg.com/@cryptologos/cryptocurrencies@1.0.1/logos/web3js.svg" alt="Web3" width="40" height="40"/>
+<img src="https://cryptologos.cc/logos/chainlink-link-logo.svg" alt="Oracles (Chainlink)" width="40" height="40"/>
 </p>
