@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaeem Tariq</h1>
-<h2 align="center">🚀 Full-Stack Developer | Lecturer | Blockchain Enthusiast </h2>
+<h2 align="center">🚀 Full-Stack Developer | Lecturer | Blockchain Engineer </h2>
 <h3>💡 Passionate about Computer Science, Web3, and Decentralized Technologies </h3>
 <h3>🛠️ Skilled in Full-Stack Web Development, Smart Contracts, and dApps</h3>
 <h3>📚 Lecturer at Department of Computer Science, University of Karachi</h3>
